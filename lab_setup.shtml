@@ -1,0 +1,323 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html>
+<head>
+<!-- It is intended that this template will allow faculty and staff from the University of Wisconsin to produce web pages compliant with the web accessibility policy of the University. However, use of this template does not ensure compliance. -->
+<!-- *********************** General Information about this Template **********************************-->
+<!-- This template contains web coding of two types. 1.) Coding that should not be changed by the inexperienced designer. 2.) EDITABLE regions where a designer can insert content. (One region is for hyperlinks, the second is for content, the third allows the author to change the date the page was created, the last area produces a hyperlink to a contact in your department.) These regions begin and end with several rows of asterisks. Locate both regions before typing any content.-->
+
+  <title>UW-Madison | Solar Energy Laboratory | SEL Lab Setup</title>
+  <meta content="text/html; charset=iso-8859-1" http-equiv="Content-Type">
+  <meta name="verify-v1" content="PBPWa2x3Agx5aivB7cPAlI+l/B+76Ka4Zix362NLVrc=">
+  <link type="text/css" rel="stylesheet" href="../web2.css">
+  <style type="text/css">
+<!--
+-->
+  </style>
+</head>
+
+
+<body>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tbody>
+<!-- *********************** Begin general UW links- don't touch *******************************-->
+	<tr>
+      <td rowspan="4" class="bgred-crest" align="center" valign="top" width="18%"><a href="http://www.wisc.edu"><img src="../images/logo-crest.gif" alt="University of Wisconsin-Madison" border="0" height="71" width="144"></a></td>
+
+      <td class="bgblack" colspan="2" align="right" height="24" nowrap="nowrap" valign="middle"><a href="#body"><img src="../images/trans.gif" alt="Skip navigation" align="middle" border="0" height="1" hspace="0" vspace="0" width="1"></a><a href="http://www.wisc.edu"><img src="../images/uwhome_onblack.gif" alt="UW-Madison Home Page" border="0" height="10" width="66"></a><a href="http://my.wisc.edu/portal/"><img src="../images/myuw_onblack.gif" alt="My UW-Madison" border="0" height="10" hspace="20" width="45"></a><a href="http://www.wisc.edu/wiscinfo/search/google.html"><img src="../images/uwsearch_onblack.gif" alt="Search UW" border="0" height="10" hspace="0" width="74"></a></td>
+
+      <td class="bgblack" width="2%"><img src="../images/trans.gif" alt="" height="1" width="1"></td>
+    </tr>
+
+
+    <tr>
+      <td class="bggold" colspan="2"><img src="../images/trans.gif" alt="" height="1" width="1"></td>
+      <td class="bggold" width="2%"><img src="../images/trans.gif" alt="" height="1" width="1"></td>
+    </tr>
+<!-- *********************** End general UW links*******************************-->
+
+
+<!-- *********************** Begin breadcrumbs- you can edit this **************-->
+    <tr>
+      <td class="breadcrumbs" colspan="2" align="right" height="26" nowrap="nowrap" valign="middle">
+<a href="http://www.wisc.edu/">UW-Madison</a> 
+      &gt; <a href="http://www.engr.wisc.edu/me/">Mechanical Engineering</a>
+      &gt; <a href="http://sel.me.wisc.edu">Solar Energy Lab</a>
+	  &gt; <a href="http://sel.me.wisc.edu/uw-only/lab_setup.shtml">SEL- Lab Setup</a>
+	  </td>
+<!-- *********************** End breadcrumbs ************************************-->
+
+<!-- *********************** Part of page layout, side menu- don't edit **************************-->
+      <td class="bgred" width="2%">&nbsp;</td>
+    </tr>
+
+
+    <tr> 
+		<td width="98%" colspan="2" align="left" valign="top" background="../images/h_shadow1.gif"><img src="../images/corner1.gif" width="20" height="20" alt=""><img src="../images/corner-rt.gif" width="10" height="20" alt=""><br> 
+  <img src="../images/corner-left.gif" width="20" height="10" alt=""></td> 
+		<td width="1%" background="../images/h_shadow1.gif">&nbsp;</td> 
+	</tr>
+
+
+    <tr>
+      <td class="bgred" align="left" valign="top" width="18%">
+      <div align="center"><img src="../images/logo-wordmark.gif" height="46" width="125"></div> 
+      <form method="get" action="http://www.google.com/u/univwisc"><input name="h1" value="en" type="hidden"> <label for="search">
+        <class ="hide"><br>
+        </class></label>      
+        <div class="searchbox"><input size="10" name="hl" value="ISO-8859-1" maxlength="100" type="hidden"><input name="q" id="searchText" value="" type="text">
+        <div><input value="Search" type="submit"></div>
+        </div>
+      </form>
+<!-- *********************** End of part of page layout**************************-->
+
+
+<!-- ******** Editable Region for Hyperlinks *************************** -->
+<!-- The side menu links are in the file indicated below, be aware that 
+editing that file will change them throughout the site -->
+
+	    <p class="navbodyblack">
+		<a href="http://sel.me.wisc.edu/index.shtml">SEL Home</a>
+	  	<br><a href="http://sel.me.wisc.edu/about.shtml">About</a>
+		<br><a href="http://sel.me.wisc.edu/admissions.shtml">Admissions</a>
+		<br><a href="http://sel.me.wisc.edu/alumni.shtml">Alumni</a>
+		<br><a href="http://sel.me.wisc.edu/links.shtml">Links</a>
+		<br><a href="http://sel.me.wisc.edu/news.shtml">News</a>
+		<br><a href="http://sel.me.wisc.edu/publications.shtml">Publications</a>
+		<br><a href="http://sel.me.wisc.edu/research.shtml">Research</a>
+		<br><a href="http://sel.me.wisc.edu/events.shtml">SEL Events</a>
+		<br><a href="http://sel.me.wisc.edu/software.shtml">Software</a>
+		<br>
+		<br><a href="http://sel.me.wisc.edu/contact.shtml">Contact</a>
+		<br><a href="http://sel.me.wisc.edu/facstaff.shtml">Faculty/Staff</a>
+		<br><a href="http://sel.me.wisc.edu/students.shtml">Students</a>
+		<br>
+		<br><a href="http://sel.me.wisc.edu/IEHTtextbook.shtml">Introduction to Engineering Heat Transfer</a>
+		<br><a href="http://sel.me.wisc.edu/heattransfertextbook.shtml">Heat Transfer Textbook</a>
+		<br>
+		<br><a href="http://sel.me.wisc.edu/uw-only/lab_computing.shtml">For SEL Members</a>
+	</p>
+	<br>
+	<div align="center">
+	<img src="http://sel.me.wisc.edu/images/sel-0300-0097.gif" width="130" border="0" alt="SEL logo">
+	</div>
+
+<!-- ************* End of Editable Region for Hyperlinks ****************************-->
+      </td>
+
+<!-- *********************** Begin part of page layout- don't edit **************************-->
+      <td class="bg-vert-shadow" valign="top" width="3%"><img src="../images/trans.gif" alt="" height="1" width="20"></td>
+
+      <td valign="top" width="77%">
+      
+      <table summary="Navigation layout" border="0" cellpadding="0" cellspacing="0" width="100%">
+
+
+        <tbody>
+
+
+          <tr align="left">
+
+
+            <td align="left" height="400" valign="top" width="100%">
+<!-- *********************** End part of page layout **************************-->    
+
+<!-- *********************** Begin main page content- do edit **************************-->         
+<div align="center">
+	<h1>SEL Members- Lab Information</h1>
+	<p>
+	<!-- The SEL lab links are in the file indicated below, be aware that 
+editing that file will change them throughout the site -->
+
+		<a href="http://sel.me.wisc.edu/uw-only/lab_computing.shtml">General Computing Info</a> | 
+	<a href="http://sel.me.wisc.edu/uw-only/lab_setup.shtml"><strong>Printers</strong> and Shared Drives</a>
+	<br><a href="http://sel.me.wisc.edu/uw-only/lab_rules.shtml">Rules and Advice</a> | 
+	<a href="http://sel.me.wisc.edu/uw-only/lab_misc.shtml">Miscellaneous</a> | 
+	<a href="http://sel.me.wisc.edu/uw-only/lab_library.shtml">SEL Library Resources</a>
+	<br><a href="http://sel.me.wisc.edu/uw-only/lab_thesis.shtml">Before Writing a Masters Thesis</a> |
+	<a href="http://sel.me.wisc.edu/uw-only/lab_leaving.shtml">For Students who are Leaving</a>
+
+	</p>
+</div>
+
+<h2>Printers and Shared Drives</h2>
+
+<h3>How to be a member of the SEL computer workgroup</h3>
+<p>
+In order to print to the SEL shared printers and use the S-drive, when you set up your computer, make sure that your computer is part of the workgroup 'ENGR-SEL'. This option is set in Control panel/System.
+</p>
+
+<h3>How to map the S drive*</h3>
+<p>
+At the SEL, we do not have a computer network, but we do share a hard
+drive that we call the 'Shared' or 'S'-drive. Please follow
+these instructions to map this drive in your computer:
+</p>
+
+<ul>
+	<li>Open Windows Explorer.</li>
+    <li>Go to menu 'Tools' and select 'Map Network Drive'.</li>
+	<li>Select 'S:' as the drive letter.</li>
+	<li>Make sure that the option 'Reconnect at logon' is checked.</li>
+	<li>Type "<strong>\\sel-server.me.wisc.edu\shared</strong>" (without double quotes).</li>
+	<li>Click OK.</li>
+	<li>Login: sel-server\seluser Password: sel13</li>
+	<li>Finally, create a new folder and give it the name that you want. This will be your folder in the shared drive.</li>
+</ul>
+
+<p>
+*You don't necessarily have to be at a SEL computer to access this drive. As long as you are logged into the College of Engineering's network (like on a CAE computer, or using <a href="https://kb.wisc.edu/cae/page.php?id=22856">VPN</a>, instructions on how to <a href="https://kb.wisc.edu/cae/page.php?id=23424">activate</a>), you should be able to map to the shared drive as instructed above.
+<br><br>
+<span style="color: rgb(204, 0, 0);">Do not use the shared
+drive as a permanent storage drive. Everybody in the SEL has
+access to the shared drive, so do not use to store sensitive
+information, and keep other copies of your documents.
+</span></p>
+            
+			
+<h2>How to add the printers</h2>
+<p>
+We have three printers: two black and white (Littlefoot and Bigfoot), and one color printer (Colorina).
+</p>
+
+<h3>Colorina (color printer)</h3>
+<p>
+First, download the driver from the Shared drive at <strong>S:\Colorina Driver\hp_cp3505x_driver.zip</strong> and uncompress it to a known directory (c:\temp\hp_cp3505x_driver is a good option).
+</p>
+
+<ol>
+	<li>Open the start menu, highlight settings and then select "Printers and Faxes"</li>
+	<li>Either double-click on "Add Printer" or select it from the list in the left hand margin of the opened page.</li>
+	<li>Select Next at the first screen, and then make sure the button next to "Local Printer attached to this computer" is selected and that the check box is unchecked.</li>
+	<li>Choose "Create new port" and then from the drop down box choose "standard tcp/ip port.</li>
+	<li>A new window will pop up which you should choose next on.</li>
+	<li>In the Printer Name or IP Address enter "colorina.me.wisc.edu" and select next.</li>
+	<li>Select finish after it detects everything.</li>
+	<li>When it asks for the driver, select "have disk" and navigate to where you uncompressed the files (choose the "cp3505" file) and select next.</li>
+	<li>It will have you confirm that the driver is correct and select next.</li>
+	<li>Set a printer name (colorina works), set if you would like it as your default printer and select next.</li>
+	<li>Select next at the next screen.</li>
+	<li>Choose whether you want to test printing and select next.</li>
+	<li>If you tested printing it will ask whether it printed successfully (choose ok).</li>
+</ol>
+
+<h3>Littlefoot (big B&amp;W printer)</h3>
+<p>
+To set up Littlefoot, you can do one of the two following methods.  There is a better way and an easier way, although right now the only disadvantage I see to the easier way is that you can't actually call the printer 'Littlefoot', it gets called the name DOIT chose for it.
+<br><br>
+Either way you set up the printer, make sure to follow the last set of instruction on making 2-sided printing the default to help save paper.
+</p>
+
+<h4>Better Way</h4>
+<ol>
+	<li>To install the new printer, type the following into a Windows Explorer Address bar or open the link below with Internet Explorer
+<br><strong>\\Sel-server\shared\Littlefoot Driver\autorun.exe</strong></li>
+	<li>Wait for the page to load.  Click 'Install Printer'</li>
+	<li>Select 'English', click 'OK'</li>
+	<li>Click 'Next'</li>
+	<li>Select 'Connected via the network' and click 'Next'</li>
+	<li>Select 'Basic network setup for a PC or server' and click 'Next'</li>
+	<li>Select 'Specify a printer by address; and click 'Next'</li>
+	<li>Select 'IP Address', enter 128.104.186.196, and click 'Next'</li>
+	<li>Select 'Yes, install this printer' and click 'Next'</li>
+	<li>Click 'Next'</li>
+	<li>Select 'Minimum Installation', click 'Next'</li>
+	<li>Under printer name, type 'Littlefoot', make sure that the default printer box is checked, and click 'Next'</li>
+	<li>Select 'Not Shared', click 'Next'</li>
+	<li>Type '1304 ERB' in the location box, click 'Next'</li>
+	<li>Click 'Install'</li>
+	<li>Click 'Finish'</li>
+	<li>Click 'Close'</li>
+</ol>
+
+<h4>Easier Way</h4>
+<ol>
+	<li>In the Start menu, select 'Printers and Faxes' (this may be in the Control Panel on some computers)
+	<li>Double-click 'Add Printer' 
+	<li>Click 'Next'
+	<li>Select 'A network printer …' and click 'Next' 
+	<li>Select 'Connect to a printer on the Internet …' and type the following as the URL
+	<li>http://128.104.186.196
+	<li>Click 'Next'
+	<li>Under Manufacture, select 'HP', and under Printers, select 'HP LaserJet 4250 PCL 6' (it should appear at the top of the list, not alphabetically) and click 'OK'.  If  'HP LaserJet 4250 PCL 6' does not appear, you can also use 'HP LaserJet 4000 Series PCL' and it will work the same. 
+	<li>Select 'Yes' if you want to make this the default printer, and click 'Next'
+	<li>Click 'Finish'
+</ol>
+
+<h3>Bigfoot (small B&amp;W printer)</h3>
+<ul>
+	<li>Go to menu Start, and select 'Printers'. Click on 'Add printer'</li>
+	<li>Select 'Add a network printer'.</li>
+	<li>In Windows XP, select 'Browse for a printer' and click next. Select '\\SEL-PRINTER\bigfoot' and click on Next. Click on 'Yes' in the warning messages. Repeat the process for Colorina.</li>
+	<li>In Windows Vista, the installation process fails. Please follow the instructions to install Littlefoot.</li>
+</ul>
+
+<h3>To make two-sided printing the default (Duplex mode)</h3>
+<ol>
+	<li>In the Start menu, select 'Printers and Faxes' (this may be in the Control Panel on some computers)
+	<li>Right-click on Littlefoot and select 'Printing Preferences'
+	<li>In the 'Finishing' tab, make sure the 'Print on both sides' box is checked, click 'OK'
+</ol>
+
+
+
+<!-- *********************** End of main page content- do edit **************************--> 
+ 
+<!-- *********************** Begin page layout don't edit **************************-->    
+            </td>
+          </tr>
+        </tbody>
+      </table>
+      </td>
+      <td width="2%">&nbsp;</td>
+    </tr>
+    <tr valign="middle">
+      <td class="bgred" height="20" width="18%">&nbsp;</td>
+      <td class="bg-vert-shadow" valign="top" width="3%"><img src="images/trans.gif" alt="" height="1" width="20"></td>
+      <td valign="top" width="77%"><img src="images/trans.gif" alt="" height="1" width="20"></td>
+      <td valign="top" width="2%"><img src="images/trans.gif" alt="" height="1" width="20"></td>
+    </tr>
+    <tr valign="middle">
+      <td colspan="4" class="bgblack" align="center" height="20"> <font size="1"><span class="bodywhite">
+
+<!-- **************** Start of Editable Region for bottom navigation bar ***********************-->
+<!-- The bottom links are in the file indicated below, be aware that 
+editing that file will change them throughout the site -->
+
+			<a href="http://www.engr.wisc.edu/me/">Mechanical Engineering</a> | 
+		<a href="http://www.wisc.edu">UW Home</a>
+	
+<!-- ****************End of Editable Region for bottom navigation bar ***************************-->
+      
+	  </span></font></td>
+    </tr>
+  </tbody>
+</table>
+<table border="0" cellpadding="2" cellspacing="0" width="100%">
+  <tbody>
+    <tr>
+      <td width="100%">
+      
+      <p class="copyright" align="center">
+<!-- *******************Start of Editable Region to Change Date Last Updated *****************-->
+File last updated: September 16, 2009
+<!-- ******************End of Editable Region to Change Date Last Updated *******************-->
+      <br>
+Feedback, questions, or accessibility issues:
+<!-- ************Start of Editable Region to Modify Contact Email Address ********************-->
+<!-- The webmaster email is in the file indicated below, be aware that 
+editing that file will change it throughout the site -->
+
+<a href="mailto:enienhaus@wisc.edu">enienhaus@wisc.edu</a>
+
+<!-- **************End of Editable Region to Modify Contact Email Address ********************-->
+<br>
+Copyright &copy; 2008 The Board of Regents of the University of Wisconsin System.
+</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
+</body>
+</html>
